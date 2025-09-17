@@ -1,0 +1,2 @@
+### Interview Preparation Guide Questions and Solutions
+This repository contains a collection of common interview questions along with their solutions, designed to help you prepare for technical interviews. The questions cover a variety of topics including data structures, algorithms e.t.c.

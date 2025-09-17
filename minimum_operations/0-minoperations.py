@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 def minOperations(n):
+    """Calculates the minimum number of operations to reach n 'A's starting from one 'A'. With only two operations allowed: Copy All and Paste."""
     ops = 0
     while n > 1:
         for i in range(2, n+1):
